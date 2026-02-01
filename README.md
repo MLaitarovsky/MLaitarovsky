@@ -47,11 +47,11 @@ Currently, I am focused on **AI Agents**, **JavaScript**, and **Full-Stack Devel
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MLaitarovsky&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MLaitarovsky&show_icons=true&theme=merko&hide_border=false" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MLaitarovsky&theme=merko&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=MLaitarovsky&theme=merko&hide_border=false" />
   
   <br/>
   
