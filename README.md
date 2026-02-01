@@ -12,7 +12,7 @@
 
 I am a **Software Developer** and **Olympic Athlete** (Tokyo 2020) with a B.S. in Computer Information Systems (graduated 2025). I thrive on discipline, high performance, and solving complex problems—whether in the pool or in code. 
 
-Currently, I am focused on **AI Agents**, **Python**, and **Full-Stack Development**. I am also training for the **LA 2028 Olympic Games** while building software that makes an impact.
+Currently, I am focused on **AI Agents**, **JavaScript**, and **Full-Stack Development**. I am also training for the **LA 2028 Olympic Games** while building software that makes an impact.
 
 - 🔭 I’m currently working on: **AI Agents using CrewAI**
 - 👯 I’m looking to collaborate on: **Open Source AI projects & Python tools**
