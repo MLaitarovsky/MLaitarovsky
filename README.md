@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Michael+Laitarovsky;Olympic+Athlete;Software+Developer;CS+Graduate" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Building+AI+Agents;Training+for+LA+2028;Coding+with+Passion" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,20B2AA&height=250&section=header&text=Michael%20Laitarovsky&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Olympic%20Athlete%20|%20Software%20Developer&descSize=20&descAlignY=60&animation=fadeIn" />
 </div>
 
 ---
