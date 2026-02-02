@@ -10,9 +10,9 @@ I am a **Software Developer** and **Olympic Athlete** (Tokyo 2020) with a B.S. i
 
 Currently, I am focused on **AI Agents**, **JavaScript**, and **Full-Stack Development**. I am also training for the **LA 2028 Olympic Games** while building software that makes an impact.
 
-- 🔭 I’m currently working on: **AI Agents using CrewAI**
-- 👯 I’m looking to collaborate on: **Open Source AI projects & Python tools**
-- 💬 Ask me about: **Competitive mindset, Python, and Swimming**
+- 🔭 I’m currently working on: **AI Agents using CrewAI & Python**
+- 👯 I’m looking to collaborate on: **AI-Powered Web Apps (React/Next.js)**
+- 💬 Ask me about: **High-Performance Mindset, Full-Stack Dev, & Swimming**
 
 ---
 
