@@ -47,6 +47,7 @@ Currently, I am focused on **AI Agents**, **JavaScript**, and **Full-Stack Devel
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLaitarovsky&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLaitarovsky&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MLaitarovsky&show_icons=true&theme=tokyonight" alt="Michael's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MLaitarovsky&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
