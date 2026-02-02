@@ -24,11 +24,16 @@ Currently, I am focused on **AI Agents**, **JavaScript**, and **Full-Stack Devel
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ---
 
 ### 🚀 Featured Projects
+
+#### **[Olympic Swimmer Career Tracker](https://github.com/MLaitarovsky/swimmer-agents)**
+> A Multi-Agent AI system that autonomously scrapes data and uses LLMs to "headhunt" former athletes for C-Level tech roles.
+> *Tech: Python, CrewAI, Docker, Web Scraping*
 
 #### **[SWVL](https://github.com/MLaitarovsky/SWVL)**
 > An AI-powered camera gimbal with face-tracking and gesture control.
@@ -42,4 +47,6 @@ Currently, I am focused on **AI Agents**, **JavaScript**, and **Full-Stack Devel
 
 ### 📊 GitHub Stats
 
-🚧 *Statistics and analytics are currently being calculated. Check back soon!* 🚧
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLaitarovsky&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MLaitarovsky&layout=compact&theme=tokyonight)
