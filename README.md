@@ -174,5 +174,7 @@ AI-powered camera gimbal with real-time face-tracking and gesture control.
 <div align="center">
   <sub>Building software with the same discipline that got me to the Olympics.</sub>
 </div>
- 
+
+ <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,20B2AA&height=100&section=footer" />
+</div>
