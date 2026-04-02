@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,20B2AA&height=200&section=header&text=Michael%20Laitarovsky&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%20%C2%B7%20%20Olympic%20Athlete%20%F0%9F%87%AE%F0%9F%87%B1&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,20B2AA&height=200&section=header&text=Michael%20Laitarovsky&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%20%C2%B7%20%20Olympic%20Athlete%20%F0%9F%87%AE%F0%9F%87%B1&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 </div>
  
 <div align="center">
@@ -176,5 +176,6 @@ AI-powered camera gimbal with real-time face-tracking and gesture control.
 </div>
 
  <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,20B2AA&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077B5,20B2AA&height=100&section=footer" width="100%" />
+
 </div>
